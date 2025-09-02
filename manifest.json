@@ -1,0 +1,18 @@
+{
+  "entries": [
+    {
+      "effective": "2025-08-07",
+      "label": "7Aug2025",
+      "path": "2025-08-07/waypoints.sqlite",
+      "sha256": "389b9bda668925e923f911caeacc1882ed12387e0a6aefbf06f5699dfadb5e41",
+      "size": 217088
+    },
+    {
+      "effective": "2025-09-04",
+      "label": "4Sep2025",
+      "path": "2025-09-04/waypoints.sqlite",
+      "sha256": "5e680cc24fb48eb65d8491eaf6cb0e59ccb30dc35b90249fb3c3c8cc02be5579",
+      "size": 217088
+    }
+  ]
+}
