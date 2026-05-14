@@ -90,6 +90,13 @@
       "path": "2026-05-14/waypoints.sqlite",
       "sha256": "5ad48802eabadb7c71ba695e8126dd032902ff4af231fc3471d5d42cba7d3de1",
       "size": 217088
+    },
+    {
+      "effective": "2026-06-11",
+      "label": "11Jun2026",
+      "path": "2026-06-11/waypoints.sqlite",
+      "sha256": "257ff4a735d15f68a7802db34f527991262025f67ff760c0744bb45170704af9",
+      "size": 217088
     }
   ]
 }
